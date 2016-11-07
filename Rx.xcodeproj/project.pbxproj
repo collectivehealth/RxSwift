@@ -4845,6 +4845,7 @@
 				PRODUCT_NAME = RxCocoa;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_REFLECTION_METADATA_LEVEL = none;
 			};
 			name = Debug;
 		};
@@ -4862,6 +4863,7 @@
 				PRODUCT_NAME = RxCocoa;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_REFLECTION_METADATA_LEVEL = none;
 			};
 			name = Release;
 		};
@@ -4879,6 +4881,7 @@
 				PRODUCT_NAME = RxCocoa;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_REFLECTION_METADATA_LEVEL = none;
 			};
 			name = "Release-Tests";
 		};
