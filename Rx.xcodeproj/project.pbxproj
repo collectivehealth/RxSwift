@@ -53,10 +53,8 @@
 		8476A0211C3D5DC60040BA22 /* UIImagePickerController+RxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8476A01F1C3D5D580040BA22 /* UIImagePickerController+RxTests.swift */; };
 		8476A0221C3D5DC60040BA22 /* UIImagePickerController+RxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8476A01F1C3D5D580040BA22 /* UIImagePickerController+RxTests.swift */; };
 		8476A0231C3D5DC80040BA22 /* UIImagePickerController+RxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8476A01F1C3D5D580040BA22 /* UIImagePickerController+RxTests.swift */; };
-		8479BC461C3ACDF100FB8B54 /* RxImagePickerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC441C3ACDA400FB8B54 /* RxImagePickerDelegateProxy.swift */; };
 		8479BC481C3ACDF700FB8B54 /* RxImagePickerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC441C3ACDA400FB8B54 /* RxImagePickerDelegateProxy.swift */; };
 		8479BC491C3ACDFD00FB8B54 /* RxImagePickerDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC441C3ACDA400FB8B54 /* RxImagePickerDelegateProxy.swift */; };
-		8479BC4C1C3ACF6B00FB8B54 /* UIImagePickerController+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC4A1C3ACED100FB8B54 /* UIImagePickerController+Rx.swift */; };
 		8479BC4D1C3ACF6E00FB8B54 /* UIImagePickerController+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC4A1C3ACED100FB8B54 /* UIImagePickerController+Rx.swift */; };
 		8479BC4E1C3ACF6F00FB8B54 /* UIImagePickerController+Rx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8479BC4A1C3ACED100FB8B54 /* UIImagePickerController+Rx.swift */; };
 		84C225A31C33F00B008724EC /* RxTextStorageDelegateProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C225A21C33F00B008724EC /* RxTextStorageDelegateProxy.swift */; };
@@ -3392,7 +3390,6 @@
 				C80DDE9B1BCE69BA006A1832 /* Driver+Operators.swift in Sources */,
 				C8093EE31B8A732E0088E94D /* DelegateProxyType.swift in Sources */,
 				C8093EFD1B8A732E0088E94D /* RxTarget.swift in Sources */,
-				8479BC461C3ACDF100FB8B54 /* RxImagePickerDelegateProxy.swift in Sources */,
 				C88254361B8A752B00B02D69 /* UITextView+Rx.swift in Sources */,
 				C88254171B8A752B00B02D69 /* RxTableViewReactiveArrayDataSource.swift in Sources */,
 				C882541E1B8A752B00B02D69 /* RxCollectionViewDataSourceProxy.swift in Sources */,
@@ -3460,7 +3457,6 @@
 				C8093EF91B8A732E0088E94D /* RxCLLocationManagerDelegateProxy.swift in Sources */,
 				88D98F2E1CE7549A00D50457 /* RxTabBarDelegateProxy.swift in Sources */,
 				C88254331B8A752B00B02D69 /* UISwitch+Rx.swift in Sources */,
-				8479BC4C1C3ACF6B00FB8B54 /* UIImagePickerController+Rx.swift in Sources */,
 				C8DB96831BF754C80084BD53 /* NSObject+Rx+KVORepresentable.swift in Sources */,
 				C8093EE51B8A732E0088E94D /* Logging.swift in Sources */,
 				C88254291B8A752B00B02D69 /* UICollectionView+Rx.swift in Sources */,
